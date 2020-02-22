@@ -1,0 +1,25 @@
+#복음 {
+  background:
+    url('./img/sun.png') no-repeat;
+  border: none;
+  cursor: pointer;
+  width: 250px;
+  height: 250px;
+  font-size: 2rem;
+  font-family: sans-serif;
+  font-weight: bold;
+position: relative;
+border-radius: 70%
+}
+
+#복음:before {
+  content: "";
+  background: transparent url(MoneyIcon.png) scroll no-repeat 0 0;
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  display: block;
+  top: 50px;
+  left: 50px;
+}

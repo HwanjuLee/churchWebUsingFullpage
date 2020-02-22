@@ -1,0 +1,35 @@
+.section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+height: 100vh;background-attachment: fixed;
+overflow: hidden;
+}
+h1{
+  font-size: 10px;
+  font-weight: bold;
+}
+#section0 {
+
+  background-image: url(../img/pray_1.jpg);
+
+
+
+}
+#section0 p{
+
+    color: white;
+    border-width: medium;
+    border-color: white;
+    left: 50%;
+    top: 50%;
+    border-background: gray;
+}
+
+#section1 {
+  background-image: url(../img/sing_1.jpg);
+}
+
+#section2 {}
+
+#section3 {}

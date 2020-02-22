@@ -1,0 +1,38 @@
+body{
+  margin-top: 10%;
+  background-color: black;
+}
+#word{
+  margin: 30px;
+  border-radius: 10px;
+  border-width: thin;
+  border-style: solid;
+  border-color: white;
+  padding: 50px;
+  color: white;
+}
+
+#container{
+
+  color: orange;
+  text-align: center;
+
+}
+
+.parallax-window0{
+    min-height: 600px;
+    background: transparent;
+
+}
+.parallax-window1 {
+    min-height: 600px;
+    background: transparent;
+}
+.parallax-window2 {
+    min-height: 600px;
+    background: transparent;
+}
+.parallax-window3 {
+    min-height: 600px;
+    background: transparent;
+}

@@ -1,0 +1,8 @@
+.content{
+  height: 740px;
+  background-image: url("../img/wideImage.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  filter: grayscale(100%);
+}
